@@ -8,3 +8,5 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+The storefront's catalog browsing, yardage selection, and temporary shopping bag live on the public home route because the first release is a client-only sample until Shopify is connected.
